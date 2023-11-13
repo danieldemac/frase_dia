@@ -1,4 +1,4 @@
-<h1 align="center">Frase do Dia</h1> 
+<h1 align="center">Frase do Dia📜</h1> 
 
 <div align="center"> <img width="517" height="129" src="images/frase.png" alt="Frase"></div>
 
