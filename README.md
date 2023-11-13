@@ -1,5 +1,7 @@
 <h1 align="center">Frase do Dia</h1> 
-> Text that is a quote
+
+<div align="center" id="frase-do-dia"></div>
+<script src="js/script.js"></script>
 Este é um projeto simples que visa fornecer uma dose diária de motivação através de mensagens inspiradoras. O site "Frase do Dia" exibe uma única mensagem motivacional a cada dia, ajudando os usuários a começarem o dia com positividade e inspiração.
 
 ## Como Funciona
