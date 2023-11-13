@@ -25,8 +25,11 @@ Sinta-se à vontade para contribuir com novas mensagens motivacionais, melhorias
 6. Envie as alterações para o seu fork (`git push origin sua-nova-feature`).
 7. Crie um pull request para revisão.
 
-## Licença
+<h2 align="center">Capyview é desenvolvido por <a href='https://github.com/danieldemac'>Daniel Cabral</a>.</h2>
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE), o que significa que você é livre para usá-lo, modificar e distribuir conforme necessário.
+## Instalação
 
-Esperamos que este simples projeto traga um pouco de inspiração diária para aqueles que o utilizam. Seja bem-vindo para contribuir e fazer parte do "Frase do Dia"!
+1. Crie um clone repository na sua máquina local:
+
+```bash
+git clone https://github.com/danieldemac/fraseDoDia.git
