@@ -1,6 +1,6 @@
 <h1 align="center">Frase do Dia</h1> 
 
-<p align="center"><i>"A jornada de mil milhas começa com um único passo."</i></p>
+<div align="center"><img href'images/frase.pg'></div>
 
 Este é um projeto simples que visa fornecer uma dose diária de motivação através de mensagens inspiradoras. O site "Frase do Dia" exibe uma única mensagem motivacional a cada dia, ajudando os usuários a começarem o dia com positividade e inspiração.
 
