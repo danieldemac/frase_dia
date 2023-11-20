@@ -374,5 +374,7 @@
         // Calcula o índice da frase do dia com base na data
         const indiceFraseDoDia = dataAtual.getDate() % frases.length;
 
+        console.log(dataAtual)
+
         // Exibe a frase correspondente ao dia
         document.getElementById("frase-do-dia").innerHTML = frases[indiceFraseDoDia];

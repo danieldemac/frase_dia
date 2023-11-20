@@ -10,3 +10,18 @@ body {
     height: 100vh;
     font-family: 'Carrois Gothic', sans-serif;
 }
+#contador {
+    font-size: 18px;
+    margin-top: 60px; /* Ajuste para posicionar abaixo da frase */
+    position: relative;
+}
+
+/* Estilos para a frase */
+#frase-do-dia {
+    font-size: 24px;
+    position: absolute;
+    top: 50%; /* Posição vertical no meio */
+    left: 50%; /* Posição horizontal no meio */
+    transform: translate(-50%, -50%); /* Ajuste para centralizar */
+    z-index: 1; /* Para garantir que fique sobre o contador */
+}
