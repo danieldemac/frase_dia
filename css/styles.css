@@ -11,14 +11,14 @@ body {
     font-family: 'Carrois Gothic', sans-serif;
 }
 #contador {
-    font-size: 18px;
+    font-size: 17px;
     margin-top: 250px; /* Ajuste para posicionar abaixo da frase */
     position: relative;
 }
 
 /* Estilos para a frase */
 #frase-do-dia {
-    font-size: 24px;
+    font-size: 18px;
     position: absolute;
     top: 50%; /* Posição vertical no meio */
     left: 50%; /* Posição horizontal no meio */
