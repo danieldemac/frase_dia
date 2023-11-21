@@ -12,7 +12,7 @@ body {
 }
 #contador {
     font-size: 18px;
-    margin-top: 150px; /* Ajuste para posicionar abaixo da frase */
+    margin-top: 250px; /* Ajuste para posicionar abaixo da frase */
     position: relative;
 }
 
