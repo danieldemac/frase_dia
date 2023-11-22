@@ -28,7 +28,7 @@ Sinta-se à vontade para contribuir com novas mensagens motivacionais, melhorias
 6. Envie as alterações para o seu fork (`git push origin sua-nova-feature`).
 7. Crie um pull request para revisão.
 
-<h2 align="center">Capyview é desenvolvido por <a href='https://github.com/danieldemac'>Daniel Cabral</a>.</h2>
+<h2 align="center">Esse projeto é desenvolvido por <a href='https://github.com/danieldemac'>Daniel Cabral</a>.</h2>
 
 ## Instalação
 
