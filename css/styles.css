@@ -25,3 +25,13 @@ body {
     transform: translate(-50%, -50%); /* Ajuste para centralizar */
     z-index: 1; /* Para garantir que fique sobre o contador */
 }
+a{
+    color: #000;
+}
+.daniel{
+    position: absolute;
+    top: 12%; /* Posição vertical no meio */
+    left: 12%; /* Posição horizontal no meio */
+    transform: translate(-12%, -12%); /* Ajuste para centralizar */
+    font-size: 12px;
+}
