@@ -35,4 +35,4 @@ Sinta-se à vontade para contribuir com novas mensagens motivacionais, melhorias
 1. Crie um clone repository na sua máquina local:
 
 ```bash
-git clone https://github.com/danieldemac/fraseDoDia.git
+git clone https://github.com/danieldemac/frase_dia.git
